@@ -1,0 +1,27 @@
+body {
+    color: gray;
+    background-image: linear-gradient(violet, white);
+    background-image: url("https://4.bp.blogspot.com/-wpGcMwMGFHQ/V6ZtydFbufI/AAAAAAAADHk/4hELqSh4eYIUb1tqvi_VUN4f782BUSVgwCLcB/s1920/amazing_landscape-wallpaper-1920x1080.jpg");
+    background-size: cover;
+    background-repeat: no-repeat; I
+    background-position: right bottom;
+}
+
+
+p{
+    color:blueviolet;
+    background-color: red;
+    font-size: 20px; /* comentarios no css*/
+    text-align: center;
+}
+.titulo{ /*classe*/
+
+}
+
+ #seletor{
+
+ }*/
+
+
+
+
